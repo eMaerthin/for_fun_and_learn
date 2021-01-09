@@ -11,4 +11,4 @@
 - `git push`
 - `git commit --amend`
 - `git checkout -b name_of_your_branch`
-
+- `git rebase main`
