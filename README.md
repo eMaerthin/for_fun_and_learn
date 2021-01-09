@@ -6,5 +6,9 @@
 
 ### Lesson 1:
 - `git pull`
+- `git add -p`
 - `git commit`
 - `git push`
+- `git commit --amend`
+- `git checkout -b name_of_your_branch`
+
