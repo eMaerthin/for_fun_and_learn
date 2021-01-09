@@ -8,3 +8,4 @@
 - `git pull`
 - `git commit`
 - `git push`
+- `git commit --amend`
