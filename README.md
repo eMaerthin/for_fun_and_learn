@@ -1,1 +1,10 @@
 # for_fun_and_learn
+
+## Lessons
+- Lesson 1: Learn basics of git
+- Lesson 2: TODO
+
+### Lesson 1:
+- `git pull`
+- `git commit`
+- `git push`
